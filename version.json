@@ -1,0 +1,7 @@
+{
+  "versionCode": 6,
+  "versionName": "0.5.0-m5",
+  "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
+  "sha256": "7012c3bee284271c18ed05220802d93047163e52e383cc148f6ac72ce36d0a23",
+  "notes": "Child name setup, remote settings, screenshots toggle, backup export."
+}
