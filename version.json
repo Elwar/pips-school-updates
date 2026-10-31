@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.1-m5",
+  "versionCode": 8,
+  "versionName": "0.5.2-m5",
   "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
-  "sha256": "eab64cf5a4aa388b04d2290f931cb4a54e9e153d9bc96049569b36b240e61b69",
-  "notes": "Fixes the blank Pip and Home screen after Play. Tolerates rapid random taps."
+  "sha256": "2887f9b38730c7df8855fb7a91683e3703f195673b79860dca536da256a6b838",
+  "notes": "More variety: letters and numbers rotate. Fixes blank screen after Play. Tolerates rapid random taps."
 }
