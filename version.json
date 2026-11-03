@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.4-m5",
+  "versionCode": 11,
+  "versionName": "0.5.5-m5",
   "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
-  "sha256": "5b0a6581251e1d2e3fbfec4bb8bc066305c68cbd9a219e6cf01d377307970fd0",
-  "notes": "Fixes screenshots: play time now adds up across screens, and there is a Take a test screenshot now button plus last-attempt status in the grown-ups area."
+  "sha256": "e31d277fc65fc74f02f941ca4502267c7d69f4b905129d395446f19d266e46e6",
+  "notes": "Fixes the blank blue screen after the sticker book. Clearer Share screenshots button. Screenshot capture fix from 0.5.4."
 }
