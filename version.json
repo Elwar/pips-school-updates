@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.5.5-m5",
+  "versionCode": 12,
+  "versionName": "0.6.0-m6a",
   "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
-  "sha256": "e31d277fc65fc74f02f941ca4502267c7d69f4b905129d395446f19d266e46e6",
-  "notes": "Fixes the blank blue screen after the sticker book. Clearer Share screenshots button. Screenshot capture fix from 0.5.4."
+  "sha256": "f7b4015160f48defeb19459606e89dd75d2873263c07104ae18d5e5045934958",
+  "notes": "Reading step 1: lowercase letter sounds (s a t p i n first) with sound cards and matching games, plus a Reading page in the grown-ups area."
 }
