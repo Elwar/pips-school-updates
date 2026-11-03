@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.6.0-m6a",
+  "versionCode": 13,
+  "versionName": "0.6.1-m6a",
   "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
-  "sha256": "f7b4015160f48defeb19459606e89dd75d2873263c07104ae18d5e5045934958",
-  "notes": "Reading step 1: lowercase letter sounds (s a t p i n first) with sound cards and matching games, plus a Reading page in the grown-ups area."
+  "sha256": "90c0a34fb280e3cbf21ddc9c1c9d22952801b2e8b165596b3873e50b3aaa7e34",
+  "notes": "Voice now says letter names correctly (no more 'verses'). A full sticker page now opens a new page so stickers keep coming; earlier pages stay viewable."
 }
