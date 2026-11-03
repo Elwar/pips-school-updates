@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.3-m5",
+  "versionCode": 10,
+  "versionName": "0.5.4-m5",
   "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
-  "sha256": "936f527f679f0ce532fa8cbf7bed13126c50126d4c1185e1b86a0df2da0bcd12",
-  "notes": "New App updates card with Check now. Letters and numbers rotate. Fixes blank screen after Play."
+  "sha256": "5b0a6581251e1d2e3fbfec4bb8bc066305c68cbd9a219e6cf01d377307970fd0",
+  "notes": "Fixes screenshots: play time now adds up across screens, and there is a Take a test screenshot now button plus last-attempt status in the grown-ups area."
 }
