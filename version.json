@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.6.2-m6a",
+  "versionCode": 15,
+  "versionName": "0.7.0-m7",
   "apkUrl": "https://raw.githubusercontent.com/Elwar/pips-school-updates/main/pips-school.apk",
-  "sha256": "476dc7c603938a346fb3ccfd62337a588d489b76e4a033b3e5624054fbd8d48e",
-  "notes": "Sounds are spoken as sounds (nnn, not 'en en en'). Sound-matching game now uses pictures of things that start with the sound."
+  "sha256": "ad55612ff5333b04444b475213fa296fe164a9ef5504247caa9f8bd5160b761c",
+  "notes": "Paper tracing with mirror camera helper (stroke by stroke)"
 }
